@@ -1,0 +1,39 @@
+{
+    "products": [
+        {
+            "id": "123",
+            "title": "Napolitan Pizza",
+            "description": "Test 1 description",
+            "imageUrl": "https://i.pinimg.com/564x/3d/72/c7/3d72c7a6d7af0c838f9092adcde95540.jpg",
+            "price": 10.5
+          },
+          {
+              "id": "456",
+              "title": "Fried Chicken Meal",
+              "description": "Test 2 description",
+              "imageUrl": "https://i.pinimg.com/564x/d2/88/ea/d288ead43cacf7229a301b1bbaf09495.jpg",
+              "price": 10.0
+          },
+          {
+              "id": "789",
+              "title": "Bolognese Pasta",
+              "description": "Test 3 description",
+              "imageUrl": "https://i.pinimg.com/564x/f1/02/1f/f1021fcd712b1b036a99c96a5799fbc7.jpg",
+              "price": 20.00
+          },
+          {
+              "id": "888",
+              "title": "Sticky Pork Belly Burger",
+              "description": "Test 4 description",
+              "imageUrl": "https://i.pinimg.com/564x/85/d0/65/85d065a95ac511a45327bab970a6e1ff.jpg",
+              "price": 9.00
+          },
+          {
+              "id": "999",
+              "title": "Gnocchi with potatoes",
+              "description": "Test 5 description",
+              "imageUrl": "https://i.pinimg.com/564x/d4/9e/c3/d49ec374d3a7df1db730c36a76705456.jpg",
+              "price": 11.00
+          }
+    ]
+}
